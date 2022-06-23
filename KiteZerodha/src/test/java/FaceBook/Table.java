@@ -33,5 +33,8 @@ public class Table {
 	    }
 	  
 	}
+	public void rr() {
+	    System.out.println("UmeshChavhan ");	
+	}
 
 }
